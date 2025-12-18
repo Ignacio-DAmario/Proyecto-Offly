@@ -32,3 +32,4 @@ prompt dinámicamente a partir de variables contextuales del usuario.
 ## Análisis de costos
 El enfoque propuesto permite realizar una única consulta a la API por mensaje generado,
 reduciendo significativamente los costos y mejorando la escalabilidad del sistema.
+a
